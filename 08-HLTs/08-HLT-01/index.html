@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Viji's Temperature Conversion Page </title>
+    <script src="scripts/temp.js"></script>
+    <script>
+    function c2f(){
+        tf.value = 32 + tc.value * 9/5
+    }
+    function f2c(){
+        tc.value = (5/9) * (tf.value -32);
+    }
+    </script>
+</head>
+<body>
+<h1 align="center"> Temperature Conversion Page</h1>
+    <p>
+    <input type="number" id="tc"> Temperature in Celsius
+    <button onclick="c2f()">Convert to Fahrenheit</button>
+    </p>
+    <p>
+    <input type="number" id="tf"> Temperature in Fahrenheit
+    <button onclick="f2c()">Convert to Celsius</button>
+    </p>
+</body>
+</html>

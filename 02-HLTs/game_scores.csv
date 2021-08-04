@@ -1,0 +1,101 @@
+id,first_name,last_name,age,gender,country,score
+1,Virgil,Giorgiutti,52,Male,France,4190
+2,Karl,Hardwell,64,Male,United States,2025
+3,Harper,Rump,26,Female,United States,1060
+4,Arnie,Vero,75,Male,France,4911
+5,Lester,Suffe,85,Male,United States,4427
+6,Nathanael,Lafont,24,Male,United States,2556
+7,Raimundo,Hobden,98,Non-binary,France,4825
+8,Staci,Brockie,67,Female,France,2786
+9,Brian,Beckerleg,78,Male,France,1801
+10,Shak,Locarno,77,Male,Italy,3146
+11,Carl,Brevitt,69,Male,France,4230
+12,Chev,Culleford,22,Female,France,2610
+13,Doy,Greenough,55,Female,United States,4403
+14,Kal,Vasenin,28,Male,France,3592
+15,Alan,Wike,29,Male,France,1551
+16,Larry,Eallis,26,Male,Germany,1866
+17,Val,Mewes,40,Male,Italy,3731
+18,Harry,Killeley,48,Male,United States,1647
+19,Martyn,MacFarlane,30,Non-binary,United States,1017
+20,Aguste,Stayte,88,Non-binary,United States,3099
+21,Renault,Secombe,29,Non-binary,France,2801
+22,Eric,Corneck,79,Male,France,1986
+23,Roger,Skitch,41,Male,United States,2676
+24,Kent,Keneford,29,Male,France,1285
+25,Gusty,Bottomley,70,Female,France,4124
+26,Mike,Bussell,63,Male,France,3035
+27,Jamie,Keegan,34,Male,France,4222
+28,Arlie,Euels,27,Female,Spain,3879
+29,Randall,Goodspeed,87,Male,France,1910
+30,Melvin,Ambler,69,Male,France,4675
+31,Zack,Romke,31,Male,United States,4227
+32,Josey,Saterweyte,55,Female,France,3508
+33,Rachel,Albery,67,Female,France,3924
+34,Merle,Sigg,84,Female,Germany,3701
+35,Lorens,Wathey,54,Male,United States,1823
+36,Ephraim,Maxworthy,28,Non-binary,United States,4269
+37,Layla,Braybrookes,77,Female,United States,3259
+38,Peterus,Bassil,31,Female,United States,1691
+39,Matias,Keneforde,51,Non-binary,Spain,3689
+40,Helge,Howland,77,Female,United States,2935
+41,Sherlock,Chapleo,23,Male,France,3036
+42,Rob,Scardifeild,92,Male,United States,4989
+43,Abbot,Telfer,99,Male,United States,1832
+44,Fayette,Buttel,67,Non-binary,France,2843
+45,Marrilee,Proctor,73,Non-binary,United States,2332
+46,Rozalie,Greenmon,47,Female,Spain,4502
+47,Windham,Danielou,72,Male,Spain,2930
+48,Barney,Mattiuzzi,22,Male,United States,4491
+49,Lacee,Leahey,74,Female,United States,2260
+50,Tony,Kirby,80,Male,United Kingdom,1738
+51,Beauregard,Ashbee,31,Male,France,1792
+52,Celestia,Searsby,23,Female,France,3339
+53,Kathy,Puttock,33,Female,France,3587
+54,Kinny,Bacher,46,Female,France,4803
+55,Silvain,Spancock,82,Male,United States,3586
+56,Corly,Dicke,43,Non-binary,France,4352
+57,Shaun,Alibone,76,Male,France,2753
+58,Dillan,Roskelley,56,Male,United States,1379
+59,Florri,Bulward,80,Female,United Kingdom,4727
+60,Kippy,Mably,70,Female,United States,4029
+61,Lind,Kauffman,86,Female,France,2743
+62,Joe,Probey,49,Male,United States,4489
+63,Maryjane,Burhill,67,Female,United States,1654
+64,Margaux,Messham,18,Female,France,1075
+65,Renell,Brik,28,Male,France,3543
+66,Chandra,Whitehouse,43,Female,France,2362
+67,Ronnie,Pays,37,Female,France,4964
+68,Cthrine,Hathorn,81,Female,United States,2557
+69,Jobina,Cereceres,78,Non-binary,France,1795
+70,Florri,Glasbey,93,Non-binary,United States,1267
+71,Corinna,Pudden,35,Female,France,2492
+72,Sylvester,Marlow,66,Male,United States,1543
+73,Lothario,Annakin,66,Female,Germany,2109
+74,Bev,Bispo,22,Male,United States,1858
+75,Sheree,McNee,45,Female,United States,2718
+76,Ardith,Sarath,27,Male,France,1306
+77,Phebe,Werner,26,Female,United States,1103
+78,Malcolm,Cowan,76,Male,France,1367
+79,Luella,McCoughan,71,Non-binary,France,4973
+80,Carla,Gebbie,67,Female,United States,1788
+81,Merridie,Moar,85,Female,United States,1953
+82,Kevin,Ades,95,Male,United States,4502
+83,Mary,Kliment,39,Female,United States,3386
+84,James,Chancellor,94,Male,United States,4573
+85,Paul,Hanselmann,57,Male,United States,2310
+86,Dayna,Deneve,20,Female,Italy,1387
+87,Whit,Eastway,86,Male,United States,1935
+88,Regen,Rheaume,70,Male,France,4660
+89,Price,McCaghan,35,Male,France,2531
+90,David,Boissier,53,Male,France,4232
+91,Dmitri,Vassie,33,Non-binary,United States,4639
+92,Ceil,Bromehead,34,Male,United States,4438
+93,Krystal,Frazier,70,Female,France,3522
+94,Andre,Farncomb,18,Male,United States,4554
+95,Symon,Biaggetti,98,Male,France,1091
+96,Sutton,Gebbe,36,Male,France,4250
+97,Steve,Driffill,84,Male,France,2209
+98,Aylmar,Banaszewski,85,Non-binary,United States,3393
+99,Jobi,Skeemer,52,Male,United States,2123
+100,Selina,Kevern,85,Female,United Kingdom,2700
